@@ -1,0 +1,23 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+input{
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+  outline:none;
+  border: 1px solid lightgray;
+}
+button{
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+form{
+  margin: 20px;
+}
